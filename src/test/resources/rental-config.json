@@ -1,0 +1,28 @@
+{
+  "SUV": {
+    "limit": 2,
+    "registrations": [
+      "AB12 XYZ",
+      "CD34 LMN"
+    ]
+  },
+  "SEDAN": {
+    "limit": 5,
+    "registrations": [
+      "VW66 OPQ",
+      "XY77 RST",
+      "ZA88 UVW",
+      "BC99 XYZ",
+      "DE10 ABC"
+    ]
+  },
+  "VAN": {
+    "limit": 4,
+    "registrations": [
+      "DE96 ABC",
+      "FG07 DEF",
+      "HI18 GHI",
+      "JK29 JKL"
+    ]
+  }
+}
